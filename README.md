@@ -1,5 +1,5 @@
 ## Hey 👋, I'm MAHIRA GARG!
-<a href='https://www.linkedin.com/in/piyush-singla-591b76331/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/mahira-garg-18b412292/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 
 <br/>
@@ -11,11 +11,11 @@ I am easily adapt to different hats (Full Stack Web Developer 🌐, beginner lev
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
-- 🔭 &nbsp; I’m currently working on **Eco-Eye**
+- 🔭 &nbsp; I’m currently working on **Real-estate**
 - 🌱 &nbsp; I’m currently learning DSA(Java) and BackEnd
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KaranMittal0623?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/piyush-singla-591b76331/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mahira-garg-18b412292/)
 - 📚 &nbsp; When I am free, I read about new Technologies and love to code.
 
 <br>
